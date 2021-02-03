@@ -1,2 +1,2 @@
-# Parallax-swipe-carousel
-Parallax swipe carousel Demo
+# Parallax-slider
+Parallax slider Demo
